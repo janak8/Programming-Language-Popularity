@@ -38,7 +38,7 @@ The script begins by reading the dataset `QueryResults.csv`. The columns are ren
 - **Data Cleaning**:
   - Missing values (`NaN`) are replaced with zeros to ensure that the data is complete and ready for analysis.
   ![Programming Language Popularity Analysis](pivoted.png)
-![Programming Language Popularity Analysis](pivoted_null_value_cleaned.png)
+![Programming Language Popularity Analysis](pivoted_null_value_cleaned_img.png)
 
 
 
