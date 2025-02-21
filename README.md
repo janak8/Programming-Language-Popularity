@@ -53,8 +53,6 @@ The script begins by reading the dataset `QueryResults.csv`. The columns are ren
 
 - **Rolling Mean**:
   - To reduce the noise in the data, a rolling mean is applied. This technique smooths the time series data by averaging posts over a window of 6 periods (e.g., days, weeks, etc.).
- 
-![Programming Language Popularity Analysis](pivoted.png)
   - The smoothed data is then plotted on a second graph for a clearer view of the trends.
  ![Programming Language Popularity Analysis](rolled_series.png)
 
