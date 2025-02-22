@@ -34,11 +34,13 @@ The script begins by reading the dataset `QueryResults.csv`. The columns are ren
 
 - **Reshaping the Data**:
   - The data is pivoted, with dates as rows and programming language tags as columns, displaying the number of posts for each language over time.
+ 
+   ![Programming Language Popularity Analysis](pivoted.png)
 
 - **Data Cleaning**:
   - Missing values (`NaN`) are replaced with zeros to ensure that the data is complete and ready for analysis.
-  ![Programming Language Popularity Analysis](pivoted.png)
-![Programming Language Popularity Analysis](pivoted_null_value_cleaned_img.png)
+
+   ![Programming Language Popularity Analysis](pivoted_null_value_cleaned_img.png)
 
 
 
